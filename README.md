@@ -78,8 +78,8 @@ Social travel platform for finding travel companions, collaborative itineraries,
 </td>
 <td width="50%">
 
-### 🟢 [Vehicle-Counter](https://github.com/sarthak-cc/Vehicle-Counter)
-Real-time computer vision system for vehicle detection and automated counting.
+### 🟢 [Sentiment Analysis](https://github.com/sarthak-cc/emotion-prediction-)
+Emotion prediction using NLP Deep learning Model, Bidirectional GRU.
 
 </td>
 </tr>
