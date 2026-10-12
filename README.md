@@ -86,7 +86,7 @@ Emotion prediction using NLP Deep learning Model, Bidirectional GRU.
 <tr>
 <td width="50%">
 
-### 🟢 [Aarogya-Sathi]((https://github.com/sarthak-cc/Aarogya-Sathi)
+### 🟢 [Aarogya-Sathi](https://github.com/sarthak-cc/Aarogya-Sathi)
 Multilingual AI health companion providing voice-based guidance and nearby hospital access for rural communities.
 
 </td>
