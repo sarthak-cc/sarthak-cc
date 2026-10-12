@@ -86,8 +86,8 @@ Emotion prediction using NLP Deep learning Model, Bidirectional GRU.
 <tr>
 <td width="50%">
 
-### 🟢 [CineMatch](https://github.com/sarthak-cc/CineMatch)
-NLP-based movie recommendation system for personalized movie discovery.
+### 🟢 [Aarogya-Sathi]((https://github.com/sarthak-cc/Aarogya-Sathi)
+Multilingual AI health companion providing voice-based guidance and nearby hospital access for rural communities.
 
 </td>
 <td width="50%" valign="middle">
